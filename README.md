@@ -7,7 +7,7 @@ Our analysis began with a descriptive statistical overview of the dataset, follo
 
 # Model Development
 
-##Data Preparation
+## Data Preparation
 We prepared the data by dropping rows with missing values and encoding categorical variables (species and sex) to numerical form, making the dataset suitable for machine learning models.
 
 ## Model Selection
