@@ -16,9 +16,6 @@ A Random Forest classifier was chosen for this classification task due to its ro
 ## Model Training and Tuning
 The initial model was trained with default hyperparameters, achieving an accuracy of approximately 62.69% on the test set. To improve performance, we conducted hyperparameter tuning using Grid Search CV, which identified an optimal configuration that improved the cross-validation score to approximately 70.79%.
 
-## Challenges and Considerations
-The tuning process was computationally intensive, highlighting the importance of resource management in machine learning tasks. Future improvements could include a more focused approach to tuning, employing techniques such as Randomized Search CV or more targeted grid searches.
-
 ## Conclusion and Future Work
 The study demonstrates the feasibility of using machine learning to predict the island of origin for penguins based on physical and species attributes. While the model achieved reasonable accuracy, there's potential for further improvement through extended hyperparameter tuning, feature engineering, and exploring alternative modeling approaches.
 
