@@ -1,6 +1,8 @@
-# Penguin Island Prediction Study
+# Palmer Archipelago (Antarctica) Penguin Island Prediction Study
 ## Overview
-This study focuses on predicting the island of origin for penguins based on a range of attributes including species, culmen length and depth, flipper length, body mass, and sex. Utilizing the penguins_size.csv dataset, we conducted an exploratory data analysis (EDA) to understand the distribution of these attributes across different penguin species and islands.
+This study focuses on predicting the island of origin for penguins based on a range of attributes including species, culmen length and depth, flipper length, body mass, and sex. Utilizing the penguins_size.csv dataset, we conducted an exploratory data analysis to understand the distribution of these attributes across different penguin species and islands.
+
+![Dataset](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data?resource=download&select=penguins_size.csv)
 
 ## Data Analysis
 Our analysis began with a descriptive statistical overview of the dataset, followed by visualizations such as histograms and box plots to explore the distribution of physical characteristics among the penguins. These initial insights revealed notable differences in measurements across species, suggesting the potential for these attributes to predict a penguin's island of origin.
