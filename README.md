@@ -5,6 +5,9 @@ This study focuses on predicting the island of origin for penguins based on a ra
 ## Data Analysis
 Our analysis began with a descriptive statistical overview of the dataset, followed by visualizations such as histograms and box plots to explore the distribution of physical characteristics among the penguins. These initial insights revealed notable differences in measurements across species, suggesting the potential for these attributes to predict a penguin's island of origin.
 
+![distribution](https://github.com/ZachRich/Penguin-Island-Prediction/assets/32521939/73b74bd8-c4bb-4bbb-aaeb-9135a6b5a788)
+![measurementBySpecies](https://github.com/ZachRich/Penguin-Island-Prediction/assets/32521939/0acbdd8f-b992-4022-8627-9e79934761e9)
+
 # Model Development
 
 ## Data Preparation
